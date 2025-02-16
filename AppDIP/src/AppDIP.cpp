@@ -1,3 +1,8 @@
+//============================================================================
+// Autor: Diardon
+// Blog : https://diardon.wordpress.com/
+//============================================================================
+
 #include <iostream>
 #include "dip/Database.h"
 #include "dip/MySQLDatabase.h"

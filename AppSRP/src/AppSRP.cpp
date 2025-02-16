@@ -1,3 +1,8 @@
+//============================================================================
+// Autor: Diardon
+// Blog : https://diardon.wordpress.com/
+//============================================================================
+
 #include <iostream>
 #include "srp/ReportSaver.h"
 #include "srp/ReportGenerator.h"

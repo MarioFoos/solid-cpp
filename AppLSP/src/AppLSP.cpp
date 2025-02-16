@@ -1,3 +1,8 @@
+//============================================================================
+// Autor: Diardon
+// Blog : https://diardon.wordpress.com/
+//============================================================================
+
 #include "lsp/ShapesNoLSP.h"
 #include "lsp/Shapes.h"
 #include <iostream>
